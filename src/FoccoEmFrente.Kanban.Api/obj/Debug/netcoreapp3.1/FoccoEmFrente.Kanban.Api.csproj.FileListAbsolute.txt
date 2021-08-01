@@ -1,0 +1,36 @@
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Api\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.deps.json
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Api\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Api\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.pdb
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Api\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Api\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.pdb
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.csprojAssemblyReference.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.AssemblyInfoInputs.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.AssemblyInfo.cs
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.csproj.CoreCompileInputs.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.csproj.CopyComplete
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.pdb
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Api\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.deps.json
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Api\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Api\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.pdb
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Api\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Api\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.pdb
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.csprojAssemblyReference.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.AssemblyInfoInputs.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.AssemblyInfo.cs
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.csproj.CoreCompileInputs.cache
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.csproj.CopyComplete
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.dll
+C:\git-focco\Treinamentos\Treinamento Focco em Frente 19-07-2021\Projeto Base Original\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.pdb
+C:\Users\Henrique\OneDrive\Área de Trabalho\Projeto Base\src\FoccoEmFrente.Kanban.Api\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.deps.json
+C:\Users\Henrique\OneDrive\Área de Trabalho\Projeto Base\src\FoccoEmFrente.Kanban.Api\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.dll
+C:\Users\Henrique\OneDrive\Área de Trabalho\Projeto Base\src\FoccoEmFrente.Kanban.Api\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.pdb
+C:\Users\Henrique\OneDrive\Área de Trabalho\Projeto Base\src\FoccoEmFrente.Kanban.Api\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.dll
+C:\Users\Henrique\OneDrive\Área de Trabalho\Projeto Base\src\FoccoEmFrente.Kanban.Api\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.pdb
+C:\Users\Henrique\OneDrive\Área de Trabalho\Projeto Base\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.csproj.AssemblyReference.cache
+C:\Users\Henrique\OneDrive\Área de Trabalho\Projeto Base\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.AssemblyInfoInputs.cache
+C:\Users\Henrique\OneDrive\Área de Trabalho\Projeto Base\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.AssemblyInfo.cs
+C:\Users\Henrique\OneDrive\Área de Trabalho\Projeto Base\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\OneDrive\Área de Trabalho\Projeto Base\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.csproj.CopyComplete
+C:\Users\Henrique\OneDrive\Área de Trabalho\Projeto Base\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.dll
+C:\Users\Henrique\OneDrive\Área de Trabalho\Projeto Base\src\FoccoEmFrente.Kanban.Api\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Api.pdb

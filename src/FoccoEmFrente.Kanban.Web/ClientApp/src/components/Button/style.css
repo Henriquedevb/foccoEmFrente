@@ -1,0 +1,20 @@
+.button-component {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 15px;
+}
+
+button{
+    font-weight: normal;
+    width: 100%;
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #01b45b;
+    opacity: 1.0;
+    color: white;
+    cursor: pointer;
+    font-size: 1rem;
+}
+

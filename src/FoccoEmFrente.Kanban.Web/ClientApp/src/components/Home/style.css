@@ -1,0 +1,90 @@
+.canvas-container {
+    width: 860px;
+}
+
+.canvas-container p {
+    text-align: center;
+}
+
+.canvas-container p + p {
+    margin-bottom: 1rem;
+}
+
+.canvas {
+    display: flex;
+    align-items: stretch;
+    margin-bottom: 20px;
+}
+
+.pipe {
+    flex: 1;
+    min-height: 200px;
+    border-radius: 5px;
+    padding: 10px;
+    margin-right: 15px;
+}
+
+.pipe.pipe-0 {
+    text-align: center;
+    background-color: #5677f4;
+}
+.pipe.pipe-1 {
+    text-align: center;
+    background-color: #fdab3d;
+}
+.pipe.pipe-2 {
+    text-align: center;
+    background-color: #01c875;
+}
+
+
+.addActivity-button {
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    height: 3rem;
+    width: 70%;
+}
+
+.exit-button {
+    width: 80px;
+    height: 3rem;
+    border: 1px solid black;
+    background-color: rgb(121, 121, 121);
+    color: black;
+}
+
+.addActivity-button:hover {
+    font-weight: 700;
+    transform: scale(1.05);
+}
+
+.exit-button:hover {
+    font-weight: 700;
+    background-color: #eee;
+    color: red;
+    border: 1px solid rgba(100, 6, 6, 0.801);
+}
+
+@media screen and (max-width: 600px) {
+    .canvas-container {
+        min-width: 200px;
+        overflow-x: hidden;
+    }
+
+    .canvas {
+        display: flex;
+        flex-wrap: wrap;
+        max-width: 300px;
+        margin-bottom: 20px;
+    }
+
+    .pipe {
+        flex: 1;
+        min-width: 250px;
+        min-height: 200px;
+        border-radius: 5px;
+        padding: 10px;
+        margin-right: 15px;
+    }
+}

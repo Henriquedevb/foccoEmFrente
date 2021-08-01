@@ -1,0 +1,22 @@
+input {
+    width: 100%;
+    outline: none;
+    border: none; 
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;    
+}
+
+.input {
+    display: flex;
+    padding: 5px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.input img {
+    width: 30px;
+    margin-top: 0px;
+ 
+}
