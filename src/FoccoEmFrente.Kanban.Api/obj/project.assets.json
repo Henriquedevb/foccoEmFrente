@@ -9531,11 +9531,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projeto Base\\src\\FoccoEmFrente.Kanban.Api\\FoccoEmFrente.Kanban.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Henrique\\Projeto Base\\src\\FoccoEmFrente.Kanban.Api\\FoccoEmFrente.Kanban.Api.csproj",
       "projectName": "FoccoEmFrente.Kanban.Api",
-      "projectPath": "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projeto Base\\src\\FoccoEmFrente.Kanban.Api\\FoccoEmFrente.Kanban.Api.csproj",
+      "projectPath": "C:\\Users\\Henrique\\Projeto Base\\src\\FoccoEmFrente.Kanban.Api\\FoccoEmFrente.Kanban.Api.csproj",
       "packagesPath": "C:\\Users\\Henrique\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projeto Base\\src\\FoccoEmFrente.Kanban.Api\\obj\\",
+      "outputPath": "C:\\Users\\Henrique\\Projeto Base\\src\\FoccoEmFrente.Kanban.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9552,8 +9552,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projeto Base\\src\\FoccoEmFrente.Kanban.Application\\FoccoEmFrente.Kanban.Application.csproj": {
-              "projectPath": "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projeto Base\\src\\FoccoEmFrente.Kanban.Application\\FoccoEmFrente.Kanban.Application.csproj"
+            "C:\\Users\\Henrique\\Projeto Base\\src\\FoccoEmFrente.Kanban.Application\\FoccoEmFrente.Kanban.Application.csproj": {
+              "projectPath": "C:\\Users\\Henrique\\Projeto Base\\src\\FoccoEmFrente.Kanban.Application\\FoccoEmFrente.Kanban.Application.csproj"
             }
           }
         }

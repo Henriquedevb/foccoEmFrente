@@ -9,7 +9,6 @@ namespace FoccoEmFrente.Kanban.Application.Services
     public interface IActivityServices : IDisposable
     {
         Task<IEnumerable<Activity>> GetAllAsync(Guid userId);
-
         Task<Activity> GetByIdAsync(Guid id, Guid userId);
         Task<bool> ExistAsync(Guid id, Guid userId);
 

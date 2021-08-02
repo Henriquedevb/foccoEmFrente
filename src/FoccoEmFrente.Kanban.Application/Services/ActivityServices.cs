@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FoccoEmFrente.Kanban.Application.Services
 {
-    class ActivityServices : IActivityServices
+    public class ActivityServices : IActivityServices
     {
 
         private readonly IActivityRepository _activityRepository;

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QqFrLRe+87+dCBH17S0tbuGzLqLpuhLjfF/ipsxPbeBmoMPEYfK+zHJ8dKqhCACqySApjEWx4w6EZyO3Q+9XEw==",
+  "dgSpecHash": "9U4GVs2eyU4lR8cRxvlpAftLRvUruLVrfdgm/u3Ks9I8lxNtxzz1V+JkJ+21ypHnDRxx6fnGqG4e0AUjbvQUig==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projeto Base\\src\\FoccoEmFrente.Kanban.Api\\FoccoEmFrente.Kanban.Api.csproj",
+  "projectFilePath": "C:\\Users\\Henrique\\Projeto Base\\src\\FoccoEmFrente.Kanban.Api\\FoccoEmFrente.Kanban.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\Henrique\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

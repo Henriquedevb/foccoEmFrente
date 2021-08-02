@@ -22,14 +22,16 @@ namespace FoccoEmFrente.Kanban.Application.Repositories
 
         public async Task<IEnumerable<Activity>> GetAllAsync(Guid userId)
         {
-            return await DbSet.ToListAsync();
+            return await DbSet
+                .Where(activities => activities.UserId == userId)
+                .ToListAsync();
         }
 
 
         public async Task<Activity> GetByIdAsync(Guid id, Guid userId)
         {
             return await DbSet
-                .Where(activities => activities.UserId == userId && activities.UserId == id)
+                .Where(activities => activities.UserId == userId && activities.Id == id)
                 .FirstOrDefaultAsync();
         }
         public async Task<bool> ExistAsync(Guid id, Guid userId)

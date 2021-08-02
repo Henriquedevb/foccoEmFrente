@@ -14,12 +14,10 @@ namespace FoccoEmFrente.Kanban.Application.Repositories
 
 
         Activity Add(Activity activity);
-
         Activity Update(Activity activity);
-
         Activity Remove(Activity activity);
 
-     
+
 
 
 

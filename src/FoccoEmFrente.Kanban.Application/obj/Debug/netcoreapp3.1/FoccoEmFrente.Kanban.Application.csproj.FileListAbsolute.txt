@@ -25,3 +25,12 @@ C:\Users\Henrique\OneDrive\Área de Trabalho\Projeto Base\src\FoccoEmFrente.Kanb
 C:\Users\Henrique\OneDrive\Área de Trabalho\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.csproj.CoreCompileInputs.cache
 C:\Users\Henrique\OneDrive\Área de Trabalho\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.dll
 C:\Users\Henrique\OneDrive\Área de Trabalho\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.pdb
+C:\Users\Henrique\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.csproj.AssemblyReference.cache
+C:\Users\Henrique\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.AssemblyInfoInputs.cache
+C:\Users\Henrique\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.AssemblyInfo.cs
+C:\Users\Henrique\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.dll
+C:\Users\Henrique\Projeto Base\src\FoccoEmFrente.Kanban.Application\obj\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.pdb
+C:\Users\Henrique\Projeto Base\src\FoccoEmFrente.Kanban.Application\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.deps.json
+C:\Users\Henrique\Projeto Base\src\FoccoEmFrente.Kanban.Application\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.dll
+C:\Users\Henrique\Projeto Base\src\FoccoEmFrente.Kanban.Application\bin\Debug\netcoreapp3.1\FoccoEmFrente.Kanban.Application.pdb

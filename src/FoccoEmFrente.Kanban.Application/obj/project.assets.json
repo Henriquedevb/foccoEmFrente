@@ -5807,11 +5807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projeto Base\\src\\FoccoEmFrente.Kanban.Application\\FoccoEmFrente.Kanban.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Henrique\\Projeto Base\\src\\FoccoEmFrente.Kanban.Application\\FoccoEmFrente.Kanban.Application.csproj",
       "projectName": "FoccoEmFrente.Kanban.Application",
-      "projectPath": "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projeto Base\\src\\FoccoEmFrente.Kanban.Application\\FoccoEmFrente.Kanban.Application.csproj",
+      "projectPath": "C:\\Users\\Henrique\\Projeto Base\\src\\FoccoEmFrente.Kanban.Application\\FoccoEmFrente.Kanban.Application.csproj",
       "packagesPath": "C:\\Users\\Henrique\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Henrique\\OneDrive\\Área de Trabalho\\Projeto Base\\src\\FoccoEmFrente.Kanban.Application\\obj\\",
+      "outputPath": "C:\\Users\\Henrique\\Projeto Base\\src\\FoccoEmFrente.Kanban.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",
