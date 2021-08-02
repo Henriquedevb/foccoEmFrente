@@ -33,3 +33,9 @@
 .button-component {
     margin: 8px 0;
 }
+
+.input-solo {
+    border: 1px solid #333;
+    border-radius: 5px;
+    padding: 1rem;
+}

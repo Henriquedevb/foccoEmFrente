@@ -34,7 +34,7 @@ function Home({ history }) {
 
     const addActivity = async () => {
         const activity = JSON.stringify({
-            title: 'nova atividade',
+            title: 'Nova atividade',
             status: 0,
         });
 
@@ -65,15 +65,73 @@ function Home({ history }) {
         setActivities([...activities, response.ok ? responseContent : null]);
     };
 
+    const updateActivity = async (activity) => {
+        const response = await fetch('/api/activities', {
+            method: 'PUT',
+            headers: {
+                'Content-Type': 'application/json',
+                Accept: 'application/json',
+                Authorization: `Bearer ${token}`,
+            },
+            body: JSON.stringify(activity),
+        });
+
+        const responseContent = await response.json();
+
+        if (!response.ok) {
+            window.alert([
+                'Nao foi possivel atualizar a terefa',
+                response.ok
+                    ? null
+                    : Array.isArray(responseContent)
+                    ? responseContent.join(' ')
+                    : responseContent,
+            ]);
+            await loadActivities();
+            return;
+        }
+    };
+
+    const updateActivityStatus = async (activityId, status) => {
+        const action = status === 0 ? 'todo' : status === 1 ? 'doing' : 'done';
+
+        const response = await fetch(
+            `/api/activities/${activityId}/${action}`,
+            {
+                method: 'PUT',
+                headers: {
+                    'Content-Type': 'application/json',
+                    Accept: 'application/json',
+                    Authorization: `Bearer ${token}`,
+                },
+            },
+        );
+
+        const responseContent = await response.json();
+
+        if (!response.ok) {
+            window.alert([
+                'Nao foi possivel atualizar o status a terefa',
+                response.ok
+                    ? null
+                    : Array.isArray(responseContent)
+                    ? responseContent.join(' ')
+                    : responseContent,
+            ]);
+            return;
+        }
+
+        await loadActivities();
+    };
+
     const deleteActivity = async (activity) => {
-        console.log(activity.userId)
         const response = await fetch(`/api/activities/${activity.id}`, {
             method: 'DELETE',
             headers: {
                 'Content-Type': 'application/json',
                 Accept: 'application/json',
                 Authorization: `Bearer ${token}`,
-            }
+            },
         });
 
         const responseContent = await response.json();
@@ -90,7 +148,7 @@ function Home({ history }) {
             return;
         }
 
-        setActivities(activities.filter(a => a.id !== activity.id));
+        setActivities(activities.filter((a) => a.id !== activity.id));
     };
 
     const handleExit = () => {
@@ -118,6 +176,10 @@ function Home({ history }) {
                             activities={activities}
                             status={status}
                             onDelete={deleteActivity}
+                            onUpdate={updateActivity}
+                            onActivityDrops={(activityId) =>
+                                updateActivityStatus(activityId, status)
+                            }
                         />
                     );
                 })}
